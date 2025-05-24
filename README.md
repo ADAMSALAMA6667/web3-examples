@@ -1,4 +1,4 @@
-adamsalama# Web3 Examples
+# Web3 Examples
 
 ### :space_invader: Welcome, Solana Developer. :space_invader:
 
